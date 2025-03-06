@@ -47,7 +47,7 @@
 
 
 ## 👥 Team  
-| Name  
+| Names  
 |---|
 | Abbirah Athithan | 
 | Shivansh Dube | 
