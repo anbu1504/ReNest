@@ -25,8 +25,8 @@
 ## 🔧 Installation & Setup  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/your-username/project-name.git
-   cd project-name
+   git clone https://github.com/your-username/ReNest.git
+   cd ReNest
    ```  
 2. **Install dependencies:**  
    ```bash
